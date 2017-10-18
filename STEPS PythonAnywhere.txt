@@ -1,0 +1,8 @@
+1.mkdir site
+2.cd site/
+3.virtualenv -p python3 env
+4.source env/bin/activate
+5.pip install django==1.8
+6.django-admin startproject website .
+7.deactivate
+8.exit
