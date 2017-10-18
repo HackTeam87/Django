@@ -3,13 +3,13 @@
 body{
 
    /*background-color:#ff7878;*/
-     background: url(../../../static/img/IMG_20170101_144205.jpg) no-repeat ;
+     background: url(../../../static/img/euro.jpg) no-repeat ;
     font-family:"Lato";
     font-weight: 300;
     font-size: 16px;
     color: #555;
 
-     background-attachment: fixed;
+    background-attachment: fixed;
     background-position: center center;
     background-size:cover;
 
@@ -70,7 +70,7 @@ background-color: #ff7878;
 }
 
 .navbar-default .navbar-brand{
-color: #ff7878;
+color: blue;
 font-weight: bolder;
 font-size:22px;
 letter-spacing: 1px;
@@ -124,9 +124,9 @@ img{
 
 
 #red{
-    background: #ff7878;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    background:lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #red h4{
@@ -142,7 +142,7 @@ img{
     position: static;
     bottom: 0;
     width: 100%;
-    background: #2d2d2d;
+    background:#006abb;
     padding-top: 20px;
     padding-bottom: 10px;
 }
